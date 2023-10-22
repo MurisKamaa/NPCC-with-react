@@ -89,19 +89,13 @@
     border-radius: 15px;
 }
   
-.main-section h2 {
+.holo-text h2 {
     font-size: 2.5em;
     margin-top: 0;
 }
   
-.main-section p {
+.holo-text p {
     font-size: 2em;
-}
-  
-.main-section img {
-    max-width: 100%;
-    height: auto;
-    margin-top: 20px;
 }
   
 footer {
